@@ -72,6 +72,8 @@ INSERT INTO "channel" VALUES(419,'Rai Scuola','318.2.8564','',146,0,'Europe/Rome
 INSERT INTO "channel" VALUES(420,'Paramount Channel','8572.31000.3',NULL,27,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(421,'Sky TG24','8572.31000.5',NULL,50,0,'Europe/Rome',0);
 
+INSERT INTO "channel" VALUES(422, '20Mediaset.it', '272.905.2120', NULL, 20, 0, 'Europe/Rome', 0);
+
 CREATE TABLE triplet (channel_id integer, triplet text);
 INSERT INTO "triplet" VALUES(100,'8572.18384.11');
 INSERT INTO "triplet" VALUES(100,'8572.18384.5');
@@ -597,6 +599,8 @@ INSERT INTO "triplet" VALUES(418,'29.514.50');
 INSERT INTO "triplet" VALUES(419,'318.2.8564');
 INSERT INTO "triplet" VALUES(420,'8572.31000.3');
 INSERT INTO "triplet" VALUES(421,'8572.31000.5');
+
+INSERT INTO "triplet" VALUES(422,'272.905.2120');
 
 CREATE TABLE type (id integer, it text, en text, ord integer);
 INSERT INTO "type" VALUES(6,'Film','Film',1);
