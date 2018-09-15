@@ -73,6 +73,12 @@ INSERT INTO "channel" VALUES(420,'Paramount Channel','8572.31000.3',NULL,27,0,'E
 INSERT INTO "channel" VALUES(421,'Sky TG24','8572.31000.5',NULL,50,0,'Europe/Rome',0);
 
 INSERT INTO "channel" VALUES(422, '20Mediaset.it', '272.905.2120', NULL, 20, 0, 'Europe/Rome', 0);
+INSERT INTO "channel" VALUES(423, 'CineSonyItalia.it', '8572.31000.30', NULL, 55, 0, 'Europe/Rome', 0);
+INSERT INTO "channel" VALUES(424, 'Spike.it', '8572.512.50', NULL, 49, 0, 'Europe/Rome', 0);
+INSERT INTO "channel" VALUES(425, 'MotorTrend.it', '8572.31000.25', NULL, 56, 0, 'Europe/Rome', 0);
+INSERT INTO "channel" VALUES(426, 'FoodNetwork.it', '272.905.2148', NULL, 33, 0, 'Europe/Rome', 0);
+INSERT INTO "channel" VALUES(427, 'VH1.it', '8572.512.120', NULL, 67, 0, 'Europe/Rome', 0);
+INSERT INTO "channel" VALUES(428, 'VH1.it', '8572.512.120', NULL, 67, 0, 'Europe/Rome', 0);
 
 CREATE TABLE triplet (channel_id integer, triplet text);
 INSERT INTO "triplet" VALUES(100,'8572.18384.11');
