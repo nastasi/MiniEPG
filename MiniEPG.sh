@@ -1,5 +1,7 @@
 #!/bin/bash
-
+if [ "$ENABLE_DEBUG" ]; then
+    set -x
+fi
 ## Linux Version
 ## Uses Standard Unix System
 
@@ -118,7 +120,6 @@ $SQLITE3 epg.v2.sqlite < MiniEPG-dopo.sql
 
 
 $ZIP $ZIP_OPT epg.v2.sqlite.zip epg.v2.sqlite
-
 
 
 
