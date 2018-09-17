@@ -58,21 +58,21 @@ INSERT INTO "channel" VALUES(404,'Cartoonito','272.905.147','',46,0,'Europe/Rome
 INSERT INTO "channel" VALUES(405,'Super!','29.514.106','',47,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(407,'TGCOM24','272.940.4014','',51,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(408,'DMAX','29.516.50','',52,0,'Europe/Rome',0);
-INSERT INTO "channel" VALUES(409,'Focus TV','8572.31000.25','',56,0,'Europe/Rome',0);
-INSERT INTO "channel" VALUES(410,'Spike','272.905.154','',49,0,'Europe/Rome',0);
+INSERT INTO "channel" VALUES(409,'Motor Trend','8572.31000.25', NULL,56,0,'Europe/Rome',0);
+INSERT INTO "channel" VALUES(410,'Spike','272.905.154/8572.512.50','',49,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(411,'Marco Polo','29.514.102/29.514.75','',61,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(412,'Sportitalia','29.514.101/29.514.85','',60,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(413,'Alice','29.514.70','',221,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(414,'Leonardo','29.514.105/29.514.80','',62,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(415,'HSE24','29.516.22','',37,0,'Europe/Rome',0);
-INSERT INTO "channel" VALUES(416,'Food Network','29.516.10','',33,0,'Europe/Rome',0);
+INSERT INTO "channel" VALUES(416,'Food Network','29.516.10/272.905.2148','',33,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(417,'RTL 102.5 TV','29.516.21','',36,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(418,'Gazzetta TV','29.514.50','',59,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(419,'Rai Scuola','318.2.8564','',146,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(420,'Paramount Channel','8572.31000.3',NULL,27,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(421,'Sky TG24','8572.31000.5',NULL,50,0,'Europe/Rome',0);
-INSERT INTO "channel" VALUES(422,'Venti','',NULL,20,0,'Europe/Rome',0);
-INSERT INTO "channel" VALUES(423,'Cine Sony','',NULL,55,0,'Europe/Rome',0);
+INSERT INTO "channel" VALUES(422,'Venti','272.905.2120',NULL,20,0,'Europe/Rome',0);
+INSERT INTO "channel" VALUES(423,'Cine Sony','8572.31000.30',NULL,55,0,'Europe/Rome',0);
 INSERT INTO "channel" VALUES(424,'POP','',NULL,45,0,'Europe/Rome',0);
 
 
